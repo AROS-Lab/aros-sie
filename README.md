@@ -193,4 +193,4 @@ cargo clippy -- -D warnings
 
 ## License
 
-Private — AROS-Lab
+Apache License 2.0 — see [LICENSE](LICENSE)

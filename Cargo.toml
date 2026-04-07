@@ -3,7 +3,7 @@ name = "aros-sie"
 version = "0.1.0"
 edition = "2024"
 description = "AROS Self-Improvement Engine — self-model calibration, meta-cognition, policy evolution, shadow testing"
-license = "MIT"
+license = "Apache-2.0"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
